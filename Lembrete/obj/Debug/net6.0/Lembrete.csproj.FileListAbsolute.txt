@@ -1,0 +1,15 @@
+C:\Users\Miguel\Documents\C#\Lembrete\bin\Debug\net6.0\Lembrete.exe
+C:\Users\Miguel\Documents\C#\Lembrete\bin\Debug\net6.0\Lembrete.deps.json
+C:\Users\Miguel\Documents\C#\Lembrete\bin\Debug\net6.0\Lembrete.runtimeconfig.json
+C:\Users\Miguel\Documents\C#\Lembrete\bin\Debug\net6.0\Lembrete.dll
+C:\Users\Miguel\Documents\C#\Lembrete\bin\Debug\net6.0\Lembrete.pdb
+C:\Users\Miguel\Documents\C#\Lembrete\obj\Debug\net6.0\Lembrete.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\C#\Lembrete\obj\Debug\net6.0\Lembrete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\C#\Lembrete\obj\Debug\net6.0\Lembrete.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\C#\Lembrete\obj\Debug\net6.0\Lembrete.AssemblyInfo.cs
+C:\Users\Miguel\Documents\C#\Lembrete\obj\Debug\net6.0\Lembrete.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\C#\Lembrete\obj\Debug\net6.0\Lembrete.dll
+C:\Users\Miguel\Documents\C#\Lembrete\obj\Debug\net6.0\refint\Lembrete.dll
+C:\Users\Miguel\Documents\C#\Lembrete\obj\Debug\net6.0\Lembrete.pdb
+C:\Users\Miguel\Documents\C#\Lembrete\obj\Debug\net6.0\Lembrete.genruntimeconfig.cache
+C:\Users\Miguel\Documents\C#\Lembrete\obj\Debug\net6.0\ref\Lembrete.dll
